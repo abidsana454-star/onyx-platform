@@ -13,7 +13,7 @@
 ## Checklist
 
 - [ ] Lint passes locally (`npm run lint`)
-- [ ] Type check passes locally (`npm run type-check`)
+- [ ] Type check passes locally (`npm run typecheck`)
 - [ ] Build passes locally (`npm run build`)
 - [ ] Tests pass locally (`npm test`)
 - [ ] No leftover console.log / debug code
